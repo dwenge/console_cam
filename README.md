@@ -1,2 +1,16 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Сборка
+
+Файлы сбоки лежат в папке `build`
+
+## Windows
+```bash
+.\build.bat
+```
+
+## Linux
+TODO
+
+# Использование
+```
+console_cam help
+```
