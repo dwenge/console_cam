@@ -1,0 +1,3 @@
+[submodule "packages/escapi"]
+	path = packages/escapi
+	url = git@github.com:dwenge/escapi.dart.git
